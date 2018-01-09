@@ -1,0 +1,3 @@
+What is this file?
+This is just an ordinary file.
+That is printed on the command line.
