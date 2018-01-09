@@ -1,0 +1,10 @@
+String int String mainOpen-parenClose-paren Open-bracket
+
+  String int String a Assignment: = Int: 6;
+  String int String b Assignment: = Float: 5.0;
+
+  String ifOpen-paren String a Comparison < String b Close-paren Open-bracket
+    String a Assignment: = String a Operator: + String b;
+  Close-bracket
+
+Close-bracket

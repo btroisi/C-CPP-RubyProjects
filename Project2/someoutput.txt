@@ -1,0 +1,14 @@
+Number of lines: 7
+Number of chars: 180
+Number of a's: 22
+Number of e's: 3
+Number of i's: 9
+Number of o's: 5
+Number of u's: 0
+Percentage of each vowel in textfile
+ Percent of a's: 12.222222
+ Percent of e's: 1.666667
+ Percent of i's: 5.000000
+ Percent of o's: 2.777778
+ Percent of u's: 0.000000
+Total number of vowels: 39

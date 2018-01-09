@@ -1,0 +1,14 @@
+/*This is a commment about this function
+* this means nothing
+*/
+
+int main() {
+
+  int a = 6;
+  int b = 5.0; /* b=5 */
+	
+  if( a < b ) {
+    a = a + b; //if statement
+  }
+
+}
